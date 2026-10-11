@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="156" viewBox="0 0 1280 156" role="img" aria-labelledby="title">
-<title id="title">Experience highlights: SAP scanning reduced from 58 to 6 hours; SAP monitoring processed over 1 million events daily; Optum automation saved 20 hours per week.</title>
-<rect x="1" y="1" width="1278" height="154" rx="16" fill="#111a2b" stroke="#2c374b"/>
-<path d="M427 30V126M853 30V126" stroke="#303b4e"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-<g transform="translate(34 0)"><text y="34" font-size="12" letter-spacing="1.8" fill="#a4aec5">SAP / SECURITY SCANNING</text><text y="86" font-size="39" font-weight="700" fill="#8ce8cc">58h → 6h</text><text y="120" font-size="15" fill="#d4dbea">Across 200+ services</text></g>
-<g transform="translate(461 0)"><text y="34" font-size="12" letter-spacing="1.8" fill="#a4aec5">SAP / SECURITY MONITORING</text><text y="86" font-size="39" font-weight="700" fill="#baadff">1M+ events</text><text y="120" font-size="15" fill="#d4dbea">Processed daily across 50+ services</text></g>
-<g transform="translate(887 0)"><text y="34" font-size="12" letter-spacing="1.8" fill="#a4aec5">OPTUM / AUTOMATION</text><text y="86" font-size="39" font-weight="700" fill="#8ce8cc">20h / week</text><text y="120" font-size="15" fill="#d4dbea">Of manual work eliminated</text></g>
-</g></svg>
