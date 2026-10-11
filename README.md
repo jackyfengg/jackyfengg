@@ -3,7 +3,7 @@
 
 Welcome! 👋 I'm Jacky, a fourth-year Business and Computer Science major at UBC. I enjoy building useful software and understanding the business problems it helps solve.
 
-Previously, I interned in cloud security at **SAP** and DevOps at **Optum**. I'm now a **teaching assistant at UBC**, helping students learn software engineering. I enjoy working through tricky problems with others and learning along the way.
+Previously, I interned in cloud security at **SAP** and DevOps at **Optum**. I'm currently a **teaching assistant at UBC**, helping students learn software engineering. I enjoy working through tricky problems with others and learning along the way.
 
 ## Selected projects
 
