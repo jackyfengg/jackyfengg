@@ -1,29 +1,35 @@
-# Hi there, I'm Jacky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jacky-feng-jf/)](https://www.linkedin.com/in/jacky-feng-jf/)
+<!-- Custom artwork; technology logos from Skill Icons (see assets/CREDITS.md). -->
+<p align="center">
+<img src="./assets/header.svg" width="99%" alt="Hi, I'm Jacky Feng. Business + Computer Science major at UBC. Graduating December 2027." /><br/><a href="https://www.linkedin.com/in/jacky-feng-jf/"><img src="./assets/linkedin.svg" width="33%" alt="LinkedIn" /></a><a href="mailto:jackyfeng234@gmail.com"><img src="./assets/email.svg" width="33%" alt="Email me" /></a><a href="./resume/Jacky_Feng_Resume.pdf"><img src="./assets/resume.svg" width="33%" alt="Read my resume" /></a>
+</p>
 
-:school: Currently studying Business and Computer Science at The University of British Columbia</br>
-:mailbox: Reach me at: <a href="mailto:jackyfeng234@gmail.com">jackyfeng234@gmail.com</a>
+Welcome! 👋 I'm Jacky, a fourth-year Business and Computer Science major at UBC. I enjoy building useful software and understanding the business problems it helps solve.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyfengg&theme=github_dracula&layout=compact&hide_border=true" /></a>
+Previously, I interned in cloud security at **SAP** and DevOps at **Optum**. I'm now a **teaching assistant at UBC**, helping students learn software engineering. I enjoy working through tricky problems with others and learning along the way.
 
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackyfengg&repo=Foodhub&theme=github_dracula)](https://github.com/jackyfengg/FoodHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackyfengg&repo=Budgetify&theme=github_dracula)](https://github.com/jackyfengg/Budgetify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackyfengg&repo=AI-Pictionary&theme=github_dracula)](https://github.com/jackyfengg/AI-Pictionary)
+## Selected projects
 
+**[Prediction Market Arbitrage Engine](https://github.com/jackyfengg/Prediction-Market-Arbitrage-Engine)**<br/>
+A C++20 engine that streams order books across **500+ prediction markets** and ranks simulated arbitrage opportunities, with parallel initialization and WebSocket recovery.<br/>
+<sub>C++20 &nbsp;/&nbsp; Boost.Asio &nbsp;/&nbsp; OpenSSL &nbsp;/&nbsp; CMake</sub>
 
+**[FoodHub](https://github.com/jackyfengg/FoodHub)**<br/>
+A community recipe platform for discovery, reviews, and cooking events, combining PHP application workflows with relational data and preference analytics.<br/>
+<sub>PHP &nbsp;/&nbsp; JavaScript &nbsp;/&nbsp; SQL</sub>
 
+**[AI Pictionary](https://github.com/jackyfengg/AI-Pictionary)**<br/>
+An image-guessing game powered by DALL-E 3, built with teammates at nwHacks. Connects a Flask backend to an interactive browser interface.<br/>
+<sub>Python &nbsp;/&nbsp; Flask &nbsp;/&nbsp; JavaScript</sub>
 
-<!-- **jackyfengg/jackyfengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolkit
 
-Here are some ideas to get you started:
+<p>
+<sub>Languages &amp; frameworks</sub><br/><br/>
+<img src="./assets/skills-languages.svg" width="420" alt="C++, Python, TypeScript, JavaScript, Java, React, Node.js, Express" />
+</p>
+<p>
+<sub>Infrastructure &amp; tools</sub><br/><br/>
+<img src="./assets/skills-platform.svg" width="420" alt="PostgreSQL, Redis, Docker, Google Cloud, Git, GitHub Actions, Jenkins, Tailwind CSS" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="" /></p>
