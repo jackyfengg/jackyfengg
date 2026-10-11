@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="346" viewBox="0 0 400 346" role="img" aria-label="Resume"><svg x="0" y="0" width="400" height="280" viewBox="800 0 400 280" overflow="hidden"><title id="title">Hi, I'm Jacky Feng.</title><desc id="desc">Business and Computer Science major at UBC. Graduating December 2027.</desc>
+<defs>
+<linearGradient id="accent"><stop stop-color="#a7dfcf" /><stop offset="1" stop-color="#b8acf0" /></linearGradient>
+<radialGradient id="glow"><stop stop-color="#b8acf0" stop-opacity=".08" /><stop offset="1" stop-color="#b8acf0" stop-opacity="0" /></radialGradient>
+</defs>
+<rect width="1200" height="280" fill="#111827" />
+<path d="M56 1H1144" stroke="url(#accent)" stroke-width="1.5" opacity=".65" />
+<circle cx="1000" cy="140" r="160" fill="url(#glow)" />
+<g fill="none" stroke="#b8acf0">
+<rect x="923" y="61" width="150" height="150" rx="30" transform="rotate(-12 998 136)" opacity=".16" />
+<rect x="916" y="69" width="150" height="150" rx="30" opacity=".28" />
+</g>
+<g stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".85">
+<path d="M978 111v43q0 19-19 19q-12 0-18-8" />
+<path d="M1003 173v-62h37M1003 140h28" />
+</g>
+<circle cx="1071" cy="78" r="3.5" fill="#a7dfcf" />
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="57" y="66" fill="#b8acf0" font-size="19">Hi, I'm</text>
+<text x="52" y="148" fill="#f3f5fa" font-size="76" font-weight="600" letter-spacing="-2.5">Jacky Feng<tspan fill="#a7dfcf">.</tspan></text>
+<text x="57" y="199" fill="#d1d8e5" font-size="24">Business + Computer Science major at UBC</text>
+<text x="58" y="236" fill="#9aa8bd" font-size="16">Graduating December 2027</text>
+</g></svg><g transform="translate(0 280)"><rect width="400" height="66" fill="#111827" /><path d="M24 1H376" stroke="#283449" /><g transform="translate(133 23)"><path d="M4 1h12l5 5v16H4z M15 1v6h6 M8 12h9 M8 16h9" fill="none" stroke="#b8acf0" stroke-width="1.7" stroke-linejoin="round" /></g><text x="167" y="40" fill="#dbe1ed" font-family="Segoe UI,Arial,sans-serif" font-size="18">Resume</text></g></svg>

@@ -1,7 +1,5 @@
 <!-- Custom artwork; technology logos from Skill Icons (see assets/CREDITS.md). -->
-<p align="center">
-<img src="./assets/header.svg" width="99%" alt="Hi, I'm Jacky Feng. Business + Computer Science major at UBC. Graduating December 2027." /><br/><a href="https://www.linkedin.com/in/jacky-feng-jf/"><img src="./assets/linkedin.svg" width="33%" alt="LinkedIn" /></a><a href="mailto:jackyfeng234@gmail.com"><img src="./assets/email.svg" width="33%" alt="Email me" /></a><a href="./resume/Jacky_Feng_Resume.pdf"><img src="./assets/resume.svg" width="33%" alt="Read my resume" /></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/jacky-feng-jf/"><img src="./assets/banner-linkedin.svg" width="33%" alt="Jacky Feng - connect on LinkedIn" /></a><a href="mailto:jackyfeng234@gmail.com"><img src="./assets/banner-email.svg" width="33%" alt="Business + Computer Science major at UBC - email Jacky" /></a><a href="./resume/Jacky_Feng_Resume.pdf"><img src="./assets/banner-resume.svg" width="33%" alt="Read Jacky's resume" /></a></p>
 
 Welcome! 👋 I'm Jacky, a fourth-year Business and Computer Science major at UBC. I enjoy building useful software and understanding the business problems it helps solve.
 
